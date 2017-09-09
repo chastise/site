@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My first website
+title: Webpage for Chastise
 ---
 
 This space intentionally left blank.

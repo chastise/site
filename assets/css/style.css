@@ -269,9 +269,9 @@ section #footer .credits { font-size: 11px; font-family: 'OpenSansRegular', "Hel
 section #footer .credits.left { float: left; }
 section #footer .credits.right { float: right; }
 
-@media print, screen and (max-width: 720px) { #title .credits { display: block; width: 100%; line-height: 30px; text-align: center; }
+@media print, screen and (max-width: 720px) { #footer .credits { display: block; width: 100%; line-height: 30px; text-align: center; }
   #footer .credits .left { float: none; display: block; }
   #footer .credits .right { float: none; display: block; } }
-@media print, screen and (max-width: 480px) { #header { margin-top: -20px; }
+@media print, screen and (max-width: 400px) { #header { margin-top: -20px; }
   section { margin-top: 40px; }
   nav { display: none; } }
