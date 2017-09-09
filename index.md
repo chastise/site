@@ -3,5 +3,5 @@ layout: default
 title: My first website
 ---
 
-Welcome plz
+This space intentionally left blank.
 
